@@ -1,0 +1,50 @@
+ .btn-light{
+    margin: 3px;
+}
+
+.button{
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+header, section{
+    margin: 5px 0px;
+}
+
+.card-img-top{
+    border-radius: 20px;
+}
+
+.fotoPerfil{
+    position: absolute;
+    width: 200px;
+    border: 2px solid white;
+    border-radius: 50%;
+    top: 550px;
+    margin-left: 20px;
+    background-clip: padding-box;
+}
+
+.progress{
+    height: 35px;
+    margin: 20px;
+    
+}
+
+.progress h3 {
+    text-align: left;
+}
+
+.progress h4 {
+    text-align: left;
+}
+
+.navbar-brand {
+    
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bolder;
+}
+
+
+
